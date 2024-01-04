@@ -1,1 +1,1 @@
-"# Thrify" 
+# Thrify
